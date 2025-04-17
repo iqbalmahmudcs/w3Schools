@@ -1,0 +1,29 @@
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\final-project\src\w3Schools\01Syntax\bin\Debug\net9.0\01Syntax.exe
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\final-project\src\w3Schools\01Syntax\bin\Debug\net9.0\01Syntax.deps.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\final-project\src\w3Schools\01Syntax\bin\Debug\net9.0\01Syntax.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\final-project\src\w3Schools\01Syntax\bin\Debug\net9.0\01Syntax.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\final-project\src\w3Schools\01Syntax\bin\Debug\net9.0\01Syntax.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\final-project\src\w3Schools\01Syntax\obj\Debug\net9.0\01Syntax.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\final-project\src\w3Schools\01Syntax\obj\Debug\net9.0\01Syntax.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\final-project\src\w3Schools\01Syntax\obj\Debug\net9.0\01Syntax.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\final-project\src\w3Schools\01Syntax\obj\Debug\net9.0\01Syntax.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\final-project\src\w3Schools\01Syntax\obj\Debug\net9.0\01Syntax.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\final-project\src\w3Schools\01Syntax\obj\Debug\net9.0\01Syntax.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\final-project\src\w3Schools\01Syntax\obj\Debug\net9.0\refint\01Syntax.dll
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\final-project\src\w3Schools\01Syntax\obj\Debug\net9.0\01Syntax.pdb
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\final-project\src\w3Schools\01Syntax\obj\Debug\net9.0\01Syntax.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\csharpb19-IqbalHassanMahmud\final-project\src\w3Schools\01Syntax\obj\Debug\net9.0\ref\01Syntax.dll
+D:\Devskill\C# Professional Programming\Coding\New folder\01Syntax\bin\Debug\net9.0\01Syntax.exe
+D:\Devskill\C# Professional Programming\Coding\New folder\01Syntax\bin\Debug\net9.0\01Syntax.deps.json
+D:\Devskill\C# Professional Programming\Coding\New folder\01Syntax\bin\Debug\net9.0\01Syntax.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\New folder\01Syntax\bin\Debug\net9.0\01Syntax.dll
+D:\Devskill\C# Professional Programming\Coding\New folder\01Syntax\bin\Debug\net9.0\01Syntax.pdb
+D:\Devskill\C# Professional Programming\Coding\New folder\01Syntax\obj\Debug\net9.0\01Syntax.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\New folder\01Syntax\obj\Debug\net9.0\01Syntax.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\New folder\01Syntax\obj\Debug\net9.0\01Syntax.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\New folder\01Syntax\obj\Debug\net9.0\01Syntax.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\New folder\01Syntax\obj\Debug\net9.0\01Syntax.dll
+D:\Devskill\C# Professional Programming\Coding\New folder\01Syntax\obj\Debug\net9.0\refint\01Syntax.dll
+D:\Devskill\C# Professional Programming\Coding\New folder\01Syntax\obj\Debug\net9.0\01Syntax.pdb
+D:\Devskill\C# Professional Programming\Coding\New folder\01Syntax\obj\Debug\net9.0\01Syntax.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\New folder\01Syntax\obj\Debug\net9.0\ref\01Syntax.dll
