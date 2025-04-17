@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E8A2496E-DEA1-4B30-B3AF-915A70845FB9}|Variables\\Variables.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A2496E-DEA1-4B30-B3AF-915A70845FB9}|Variables\\Variables.csproj|solutionrelative:variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B7018BF4-A607-49DD-8908-E8372320AE9E}|05Constants\\05Constants.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\05constants\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7018BF4-A607-49DD-8908-E8372320AE9E}|05Constants\\05Constants.csproj|solutionrelative:05constants\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,18 +36,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\Variables\\Program.cs",
+              "RelativeDocumentMoniker": "Variables\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\Variables\\Program.cs",
+              "RelativeToolTip": "Variables\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:12:57.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\05Constants\\Program.cs",
               "RelativeDocumentMoniker": "05Constants\\Program.cs",
               "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\05Constants\\Program.cs",
               "RelativeToolTip": "05Constants\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T12:52:51.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\04Variables\\Program.cs",
               "RelativeDocumentMoniker": "04Variables\\Program.cs",
@@ -51,8 +68,7 @@
               "RelativeToolTip": "04Variables\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:36:28.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T12:36:28.358Z"
             }
           ]
         }
