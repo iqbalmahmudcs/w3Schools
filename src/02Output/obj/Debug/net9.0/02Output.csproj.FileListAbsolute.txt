@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\02Output\bin\Debug\net9.0\02Output.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\02Output\bin\Debug\net9.0\02Output.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\02Output\bin\Debug\net9.0\02Output.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\02Output\bin\Debug\net9.0\02Output.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\02Output\bin\Debug\net9.0\02Output.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\02Output\obj\Debug\net9.0\02Output.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\02Output\obj\Debug\net9.0\02Output.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\02Output\obj\Debug\net9.0\02Output.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\02Output\obj\Debug\net9.0\02Output.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\02Output\obj\Debug\net9.0\02Output.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\02Output\obj\Debug\net9.0\02Output.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\02Output\obj\Debug\net9.0\refint\02Output.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\02Output\obj\Debug\net9.0\02Output.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\02Output\obj\Debug\net9.0\02Output.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\02Output\obj\Debug\net9.0\ref\02Output.dll

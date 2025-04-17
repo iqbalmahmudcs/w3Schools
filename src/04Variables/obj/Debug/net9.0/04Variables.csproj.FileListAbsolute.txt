@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\04Variables\bin\Debug\net9.0\04Variables.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\04Variables\bin\Debug\net9.0\04Variables.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\04Variables\bin\Debug\net9.0\04Variables.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\04Variables\bin\Debug\net9.0\04Variables.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\04Variables\bin\Debug\net9.0\04Variables.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\04Variables\obj\Debug\net9.0\04Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\04Variables\obj\Debug\net9.0\04Variables.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\04Variables\obj\Debug\net9.0\04Variables.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\04Variables\obj\Debug\net9.0\04Variables.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\04Variables\obj\Debug\net9.0\04Variables.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\04Variables\obj\Debug\net9.0\04Variables.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\04Variables\obj\Debug\net9.0\refint\04Variables.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\04Variables\obj\Debug\net9.0\04Variables.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\04Variables\obj\Debug\net9.0\04Variables.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\04Variables\obj\Debug\net9.0\ref\04Variables.dll

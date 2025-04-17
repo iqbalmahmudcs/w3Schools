@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\05Constants\bin\Debug\net9.0\05Constants.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\05Constants\bin\Debug\net9.0\05Constants.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\05Constants\bin\Debug\net9.0\05Constants.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\05Constants\bin\Debug\net9.0\05Constants.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\05Constants\bin\Debug\net9.0\05Constants.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\05Constants\obj\Debug\net9.0\05Constants.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\05Constants\obj\Debug\net9.0\05Constants.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\05Constants\obj\Debug\net9.0\05Constants.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\05Constants\obj\Debug\net9.0\05Constants.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\05Constants\obj\Debug\net9.0\05Constants.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\05Constants\obj\Debug\net9.0\05Constants.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\05Constants\obj\Debug\net9.0\refint\05Constants.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\05Constants\obj\Debug\net9.0\05Constants.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\05Constants\obj\Debug\net9.0\05Constants.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\05Constants\obj\Debug\net9.0\ref\05Constants.dll
