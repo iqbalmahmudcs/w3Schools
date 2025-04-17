@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AAF9D850-929A-43C0-9F76-6657D1BA6027}|09DataTypes\\09DataTypes.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\09datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF9D850-929A-43C0-9F76-6657D1BA6027}|09DataTypes\\09DataTypes.csproj|solutionrelative:09datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1EDE571-4074-4FDE-9530-909FB0A3A4FC}|08Identifiers\\08Identifiers.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\08identifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1EDE571-4074-4FDE-9530-909FB0A3A4FC}|08Identifiers\\08Identifiers.csproj|solutionrelative:08identifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD117DF9-6C4F-46B2-89E0-D454C780BAE4}|07MultipleVariables\\07MultipleVariables.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\07multiplevariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD117DF9-6C4F-46B2-89E0-D454C780BAE4}|07MultipleVariables\\07MultipleVariables.csproj|solutionrelative:07multiplevariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8A2496E-DEA1-4B30-B3AF-915A70845FB9}|Variables\\Variables.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8A2496E-DEA1-4B30-B3AF-915A70845FB9}|Variables\\Variables.csproj|solutionrelative:variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,18 +48,57 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\09DataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "09DataTypes\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\09DataTypes\\Program.cs",
+              "RelativeToolTip": "09DataTypes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:45:16.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\08Identifiers\\Program.cs",
+              "RelativeDocumentMoniker": "08Identifiers\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\08Identifiers\\Program.cs",
+              "RelativeToolTip": "08Identifiers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:36:42.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\07MultipleVariables\\Program.cs",
+              "RelativeDocumentMoniker": "07MultipleVariables\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\07MultipleVariables\\Program.cs",
+              "RelativeToolTip": "07MultipleVariables\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:28:50.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\Variables\\Program.cs",
               "RelativeDocumentMoniker": "Variables\\Program.cs",
               "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\Variables\\Program.cs",
               "RelativeToolTip": "Variables\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T13:12:57.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\05Constants\\Program.cs",
               "RelativeDocumentMoniker": "05Constants\\Program.cs",
@@ -60,15 +111,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\04Variables\\Program.cs",
               "RelativeDocumentMoniker": "04Variables\\Program.cs",
               "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\04Variables\\Program.cs",
               "RelativeToolTip": "04Variables\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:36:28.358Z"
+              "WhenOpened": "2025-04-17T12:36:28.358Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\bin\Debug\net9.0\06DisplayVariables.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\bin\Debug\net9.0\06DisplayVariables.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\bin\Debug\net9.0\06DisplayVariables.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\bin\Debug\net9.0\06DisplayVariables.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\bin\Debug\net9.0\06DisplayVariables.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\06DisplayVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\06DisplayVariables.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\06DisplayVariables.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\06DisplayVariables.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\06DisplayVariables.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\06DisplayVariables.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\refint\06DisplayVariables.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\06DisplayVariables.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\06DisplayVariables.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\ref\06DisplayVariables.dll

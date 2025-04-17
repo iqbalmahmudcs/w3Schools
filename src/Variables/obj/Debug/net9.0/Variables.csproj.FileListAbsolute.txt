@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\bin\Debug\net9.0\Variables.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\bin\Debug\net9.0\Variables.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\bin\Debug\net9.0\Variables.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\bin\Debug\net9.0\Variables.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\bin\Debug\net9.0\Variables.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\Variables.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\Variables.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\Variables.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\Variables.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\Variables.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\refint\Variables.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\Variables.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\Variables.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\Variables\obj\Debug\net9.0\ref\Variables.dll

@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\07MultipleVariables\bin\Debug\net9.0\07MultipleVariables.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\07MultipleVariables\bin\Debug\net9.0\07MultipleVariables.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\07MultipleVariables\bin\Debug\net9.0\07MultipleVariables.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\07MultipleVariables\bin\Debug\net9.0\07MultipleVariables.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\07MultipleVariables\bin\Debug\net9.0\07MultipleVariables.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\07MultipleVariables\obj\Debug\net9.0\07MultipleVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\07MultipleVariables\obj\Debug\net9.0\07MultipleVariables.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\07MultipleVariables\obj\Debug\net9.0\07MultipleVariables.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\07MultipleVariables\obj\Debug\net9.0\07MultipleVariables.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\07MultipleVariables\obj\Debug\net9.0\07MultipleVariables.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\07MultipleVariables\obj\Debug\net9.0\07MultipleVariables.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\07MultipleVariables\obj\Debug\net9.0\refint\07MultipleVariables.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\07MultipleVariables\obj\Debug\net9.0\07MultipleVariables.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\07MultipleVariables\obj\Debug\net9.0\07MultipleVariables.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\07MultipleVariables\obj\Debug\net9.0\ref\07MultipleVariables.dll

@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\09DataTypes\bin\Debug\net9.0\09DataTypes.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\09DataTypes\bin\Debug\net9.0\09DataTypes.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\09DataTypes\bin\Debug\net9.0\09DataTypes.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\09DataTypes\bin\Debug\net9.0\09DataTypes.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\09DataTypes\bin\Debug\net9.0\09DataTypes.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\09DataTypes\obj\Debug\net9.0\09DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\09DataTypes\obj\Debug\net9.0\09DataTypes.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\09DataTypes\obj\Debug\net9.0\09DataTypes.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\09DataTypes\obj\Debug\net9.0\09DataTypes.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\09DataTypes\obj\Debug\net9.0\09DataTypes.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\09DataTypes\obj\Debug\net9.0\09DataTypes.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\09DataTypes\obj\Debug\net9.0\refint\09DataTypes.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\09DataTypes\obj\Debug\net9.0\09DataTypes.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\09DataTypes\obj\Debug\net9.0\09DataTypes.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\09DataTypes\obj\Debug\net9.0\ref\09DataTypes.dll
