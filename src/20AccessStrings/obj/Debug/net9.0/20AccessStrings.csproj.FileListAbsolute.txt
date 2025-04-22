@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\20AccessStrings\bin\Debug\net9.0\20AccessStrings.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\20AccessStrings\bin\Debug\net9.0\20AccessStrings.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\20AccessStrings\bin\Debug\net9.0\20AccessStrings.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\20AccessStrings\bin\Debug\net9.0\20AccessStrings.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\20AccessStrings\bin\Debug\net9.0\20AccessStrings.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\20AccessStrings\obj\Debug\net9.0\20AccessStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\20AccessStrings\obj\Debug\net9.0\20AccessStrings.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\20AccessStrings\obj\Debug\net9.0\20AccessStrings.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\20AccessStrings\obj\Debug\net9.0\20AccessStrings.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\20AccessStrings\obj\Debug\net9.0\20AccessStrings.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\20AccessStrings\obj\Debug\net9.0\20AccessStrings.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\20AccessStrings\obj\Debug\net9.0\refint\20AccessStrings.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\20AccessStrings\obj\Debug\net9.0\20AccessStrings.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\20AccessStrings\obj\Debug\net9.0\20AccessStrings.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\20AccessStrings\obj\Debug\net9.0\ref\20AccessStrings.dll

@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\16Math\bin\Debug\net9.0\16Math.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\16Math\bin\Debug\net9.0\16Math.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\16Math\bin\Debug\net9.0\16Math.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\16Math\bin\Debug\net9.0\16Math.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\16Math\bin\Debug\net9.0\16Math.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\16Math\obj\Debug\net9.0\16Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\16Math\obj\Debug\net9.0\16Math.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\16Math\obj\Debug\net9.0\16Math.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\16Math\obj\Debug\net9.0\16Math.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\16Math\obj\Debug\net9.0\16Math.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\16Math\obj\Debug\net9.0\16Math.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\16Math\obj\Debug\net9.0\refint\16Math.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\16Math\obj\Debug\net9.0\16Math.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\16Math\obj\Debug\net9.0\16Math.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\16Math\obj\Debug\net9.0\ref\16Math.dll

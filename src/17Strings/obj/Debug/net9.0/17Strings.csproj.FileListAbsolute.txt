@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\17Strings\bin\Debug\net9.0\17Strings.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\17Strings\bin\Debug\net9.0\17Strings.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\17Strings\bin\Debug\net9.0\17Strings.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\17Strings\bin\Debug\net9.0\17Strings.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\17Strings\bin\Debug\net9.0\17Strings.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\17Strings\obj\Debug\net9.0\17Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\17Strings\obj\Debug\net9.0\17Strings.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\17Strings\obj\Debug\net9.0\17Strings.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\17Strings\obj\Debug\net9.0\17Strings.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\17Strings\obj\Debug\net9.0\17Strings.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\17Strings\obj\Debug\net9.0\17Strings.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\17Strings\obj\Debug\net9.0\refint\17Strings.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\17Strings\obj\Debug\net9.0\17Strings.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\17Strings\obj\Debug\net9.0\17Strings.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\17Strings\obj\Debug\net9.0\ref\17Strings.dll

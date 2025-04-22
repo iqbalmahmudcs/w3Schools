@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\18StringConcatenation\bin\Debug\net9.0\18StringConcatenation.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\18StringConcatenation\bin\Debug\net9.0\18StringConcatenation.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\18StringConcatenation\bin\Debug\net9.0\18StringConcatenation.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\18StringConcatenation\bin\Debug\net9.0\18StringConcatenation.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\18StringConcatenation\bin\Debug\net9.0\18StringConcatenation.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\18StringConcatenation\obj\Debug\net9.0\18StringConcatenation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\18StringConcatenation\obj\Debug\net9.0\18StringConcatenation.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\18StringConcatenation\obj\Debug\net9.0\18StringConcatenation.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\18StringConcatenation\obj\Debug\net9.0\18StringConcatenation.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\18StringConcatenation\obj\Debug\net9.0\18StringConcatenation.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\18StringConcatenation\obj\Debug\net9.0\18StringConcatenation.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\18StringConcatenation\obj\Debug\net9.0\refint\18StringConcatenation.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\18StringConcatenation\obj\Debug\net9.0\18StringConcatenation.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\18StringConcatenation\obj\Debug\net9.0\18StringConcatenation.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\18StringConcatenation\obj\Debug\net9.0\ref\18StringConcatenation.dll

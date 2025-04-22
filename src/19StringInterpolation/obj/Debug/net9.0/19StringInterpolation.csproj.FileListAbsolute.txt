@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\19StringInterpolation\bin\Debug\net9.0\19StringInterpolation.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\19StringInterpolation\bin\Debug\net9.0\19StringInterpolation.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\19StringInterpolation\bin\Debug\net9.0\19StringInterpolation.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\19StringInterpolation\bin\Debug\net9.0\19StringInterpolation.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\19StringInterpolation\bin\Debug\net9.0\19StringInterpolation.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\19StringInterpolation\obj\Debug\net9.0\19StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\19StringInterpolation\obj\Debug\net9.0\19StringInterpolation.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\19StringInterpolation\obj\Debug\net9.0\19StringInterpolation.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\19StringInterpolation\obj\Debug\net9.0\19StringInterpolation.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\19StringInterpolation\obj\Debug\net9.0\19StringInterpolation.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\19StringInterpolation\obj\Debug\net9.0\19StringInterpolation.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\19StringInterpolation\obj\Debug\net9.0\refint\19StringInterpolation.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\19StringInterpolation\obj\Debug\net9.0\19StringInterpolation.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\19StringInterpolation\obj\Debug\net9.0\19StringInterpolation.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\19StringInterpolation\obj\Debug\net9.0\ref\19StringInterpolation.dll

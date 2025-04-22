@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\21SpecialCharactersString\bin\Debug\net9.0\21SpecialCharactersString.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\21SpecialCharactersString\bin\Debug\net9.0\21SpecialCharactersString.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\21SpecialCharactersString\bin\Debug\net9.0\21SpecialCharactersString.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\21SpecialCharactersString\bin\Debug\net9.0\21SpecialCharactersString.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\21SpecialCharactersString\bin\Debug\net9.0\21SpecialCharactersString.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\21SpecialCharactersString\obj\Debug\net9.0\21SpecialCharactersString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\21SpecialCharactersString\obj\Debug\net9.0\21SpecialCharactersString.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\21SpecialCharactersString\obj\Debug\net9.0\21SpecialCharactersString.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\21SpecialCharactersString\obj\Debug\net9.0\21SpecialCharactersString.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\21SpecialCharactersString\obj\Debug\net9.0\21SpecialCharactersString.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\21SpecialCharactersString\obj\Debug\net9.0\21SpecialCharactersString.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\21SpecialCharactersString\obj\Debug\net9.0\refint\21SpecialCharactersString.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\21SpecialCharactersString\obj\Debug\net9.0\21SpecialCharactersString.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\21SpecialCharactersString\obj\Debug\net9.0\21SpecialCharactersString.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\21SpecialCharactersString\obj\Debug\net9.0\ref\21SpecialCharactersString.dll
