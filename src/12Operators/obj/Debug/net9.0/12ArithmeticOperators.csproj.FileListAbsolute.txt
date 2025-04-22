@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\12Operators\bin\Debug\net9.0\12ArithmeticOperators.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\12Operators\bin\Debug\net9.0\12ArithmeticOperators.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\12Operators\bin\Debug\net9.0\12ArithmeticOperators.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\12Operators\bin\Debug\net9.0\12ArithmeticOperators.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\12Operators\bin\Debug\net9.0\12ArithmeticOperators.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\12Operators\obj\Debug\net9.0\12ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\12Operators\obj\Debug\net9.0\12ArithmeticOperators.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\12Operators\obj\Debug\net9.0\12ArithmeticOperators.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\12Operators\obj\Debug\net9.0\12ArithmeticOperators.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\12Operators\obj\Debug\net9.0\12ArithmeticOperators.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\12Operators\obj\Debug\net9.0\12ArithmeticOperators.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\12Operators\obj\Debug\net9.0\refint\12ArithmeticOperators.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\12Operators\obj\Debug\net9.0\12ArithmeticOperators.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\12Operators\obj\Debug\net9.0\12ArithmeticOperators.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\12Operators\obj\Debug\net9.0\ref\12ArithmeticOperators.dll

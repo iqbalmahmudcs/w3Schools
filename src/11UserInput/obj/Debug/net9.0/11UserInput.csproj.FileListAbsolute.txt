@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\UserInput\bin\Debug\net9.0\11UserInput.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\UserInput\bin\Debug\net9.0\11UserInput.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\UserInput\bin\Debug\net9.0\11UserInput.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\UserInput\bin\Debug\net9.0\11UserInput.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\UserInput\bin\Debug\net9.0\11UserInput.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\UserInput\obj\Debug\net9.0\11UserInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\UserInput\obj\Debug\net9.0\11UserInput.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\UserInput\obj\Debug\net9.0\11UserInput.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\UserInput\obj\Debug\net9.0\11UserInput.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\UserInput\obj\Debug\net9.0\11UserInput.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\UserInput\obj\Debug\net9.0\11UserInput.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\UserInput\obj\Debug\net9.0\refint\11UserInput.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\UserInput\obj\Debug\net9.0\11UserInput.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\UserInput\obj\Debug\net9.0\11UserInput.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\UserInput\obj\Debug\net9.0\ref\11UserInput.dll

@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\15LogicalOperators\bin\Debug\net9.0\15LogicalOperators.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\15LogicalOperators\bin\Debug\net9.0\15LogicalOperators.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\15LogicalOperators\bin\Debug\net9.0\15LogicalOperators.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\15LogicalOperators\bin\Debug\net9.0\15LogicalOperators.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\15LogicalOperators\bin\Debug\net9.0\15LogicalOperators.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\15LogicalOperators\obj\Debug\net9.0\15LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\15LogicalOperators\obj\Debug\net9.0\15LogicalOperators.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\15LogicalOperators\obj\Debug\net9.0\15LogicalOperators.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\15LogicalOperators\obj\Debug\net9.0\15LogicalOperators.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\15LogicalOperators\obj\Debug\net9.0\15LogicalOperators.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\15LogicalOperators\obj\Debug\net9.0\15LogicalOperators.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\15LogicalOperators\obj\Debug\net9.0\refint\15LogicalOperators.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\15LogicalOperators\obj\Debug\net9.0\15LogicalOperators.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\15LogicalOperators\obj\Debug\net9.0\15LogicalOperators.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\15LogicalOperators\obj\Debug\net9.0\ref\15LogicalOperators.dll

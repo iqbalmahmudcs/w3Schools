@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\14ComparisonOperators\bin\Debug\net9.0\14ComparisonOperators.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\14ComparisonOperators\bin\Debug\net9.0\14ComparisonOperators.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\14ComparisonOperators\bin\Debug\net9.0\14ComparisonOperators.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\14ComparisonOperators\bin\Debug\net9.0\14ComparisonOperators.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\14ComparisonOperators\bin\Debug\net9.0\14ComparisonOperators.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\14ComparisonOperators\obj\Debug\net9.0\14ComparisonOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\14ComparisonOperators\obj\Debug\net9.0\14ComparisonOperators.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\14ComparisonOperators\obj\Debug\net9.0\14ComparisonOperators.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\14ComparisonOperators\obj\Debug\net9.0\14ComparisonOperators.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\14ComparisonOperators\obj\Debug\net9.0\14ComparisonOperators.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\14ComparisonOperators\obj\Debug\net9.0\14ComparisonOperators.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\14ComparisonOperators\obj\Debug\net9.0\refint\14ComparisonOperators.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\14ComparisonOperators\obj\Debug\net9.0\14ComparisonOperators.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\14ComparisonOperators\obj\Debug\net9.0\14ComparisonOperators.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\14ComparisonOperators\obj\Debug\net9.0\ref\14ComparisonOperators.dll

@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\13AssignmentOperators\bin\Debug\net9.0\13AssignmentOperators.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\13AssignmentOperators\bin\Debug\net9.0\13AssignmentOperators.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\13AssignmentOperators\bin\Debug\net9.0\13AssignmentOperators.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\13AssignmentOperators\bin\Debug\net9.0\13AssignmentOperators.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\13AssignmentOperators\bin\Debug\net9.0\13AssignmentOperators.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\13AssignmentOperators\obj\Debug\net9.0\13AssignmentOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\13AssignmentOperators\obj\Debug\net9.0\13AssignmentOperators.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\13AssignmentOperators\obj\Debug\net9.0\13AssignmentOperators.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\13AssignmentOperators\obj\Debug\net9.0\13AssignmentOperators.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\13AssignmentOperators\obj\Debug\net9.0\13AssignmentOperators.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\13AssignmentOperators\obj\Debug\net9.0\13AssignmentOperators.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\13AssignmentOperators\obj\Debug\net9.0\refint\13AssignmentOperators.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\13AssignmentOperators\obj\Debug\net9.0\13AssignmentOperators.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\13AssignmentOperators\obj\Debug\net9.0\13AssignmentOperators.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\13AssignmentOperators\obj\Debug\net9.0\ref\13AssignmentOperators.dll

@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\TypeCasting\bin\Debug\net9.0\TypeCasting.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\TypeCasting\bin\Debug\net9.0\TypeCasting.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\TypeCasting\bin\Debug\net9.0\TypeCasting.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\TypeCasting\bin\Debug\net9.0\TypeCasting.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\TypeCasting\bin\Debug\net9.0\TypeCasting.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\TypeCasting\obj\Debug\net9.0\TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\TypeCasting\obj\Debug\net9.0\TypeCasting.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\TypeCasting\obj\Debug\net9.0\TypeCasting.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\TypeCasting\obj\Debug\net9.0\TypeCasting.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\TypeCasting\obj\Debug\net9.0\TypeCasting.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\TypeCasting\obj\Debug\net9.0\TypeCasting.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\TypeCasting\obj\Debug\net9.0\refint\TypeCasting.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\TypeCasting\obj\Debug\net9.0\TypeCasting.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\TypeCasting\obj\Debug\net9.0\TypeCasting.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\TypeCasting\obj\Debug\net9.0\ref\TypeCasting.dll
