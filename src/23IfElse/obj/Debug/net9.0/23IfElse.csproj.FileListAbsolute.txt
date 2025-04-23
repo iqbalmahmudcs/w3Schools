@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\23IfElse\bin\Debug\net9.0\23IfElse.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\23IfElse\bin\Debug\net9.0\23IfElse.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\23IfElse\bin\Debug\net9.0\23IfElse.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\23IfElse\bin\Debug\net9.0\23IfElse.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\23IfElse\bin\Debug\net9.0\23IfElse.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\23IfElse\obj\Debug\net9.0\23IfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\23IfElse\obj\Debug\net9.0\23IfElse.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\23IfElse\obj\Debug\net9.0\23IfElse.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\23IfElse\obj\Debug\net9.0\23IfElse.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\23IfElse\obj\Debug\net9.0\23IfElse.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\23IfElse\obj\Debug\net9.0\23IfElse.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\23IfElse\obj\Debug\net9.0\refint\23IfElse.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\23IfElse\obj\Debug\net9.0\23IfElse.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\23IfElse\obj\Debug\net9.0\23IfElse.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\23IfElse\obj\Debug\net9.0\ref\23IfElse.dll

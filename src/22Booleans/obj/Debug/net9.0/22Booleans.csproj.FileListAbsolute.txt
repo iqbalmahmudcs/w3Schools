@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\22Booleans\bin\Debug\net9.0\22Booleans.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\22Booleans\bin\Debug\net9.0\22Booleans.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\22Booleans\bin\Debug\net9.0\22Booleans.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\22Booleans\bin\Debug\net9.0\22Booleans.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\22Booleans\bin\Debug\net9.0\22Booleans.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\22Booleans\obj\Debug\net9.0\22Booleans.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\22Booleans\obj\Debug\net9.0\22Booleans.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\22Booleans\obj\Debug\net9.0\22Booleans.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\22Booleans\obj\Debug\net9.0\22Booleans.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\22Booleans\obj\Debug\net9.0\22Booleans.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\22Booleans\obj\Debug\net9.0\22Booleans.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\22Booleans\obj\Debug\net9.0\refint\22Booleans.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\22Booleans\obj\Debug\net9.0\22Booleans.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\22Booleans\obj\Debug\net9.0\22Booleans.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\22Booleans\obj\Debug\net9.0\ref\22Booleans.dll
