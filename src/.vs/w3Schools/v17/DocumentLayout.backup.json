@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0FC32A12-80B4-4CF9-8BDB-F5E11B69A7EF}|27BreakANDContinue\\27BreakANDContinue.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\27breakandcontinue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC32A12-80B4-4CF9-8BDB-F5E11B69A7EF}|27BreakANDContinue\\27BreakANDContinue.csproj|solutionrelative:27breakandcontinue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7EA0735-9928-4326-BFB7-34124779CA53}|26ForLoop\\26ForLoop.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\26forloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7EA0735-9928-4326-BFB7-34124779CA53}|26ForLoop\\26ForLoop.csproj|solutionrelative:26forloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A02E459A-0051-44EF-8B8F-8A13B33427BD}|25WhileLoop\\25WhileLoop.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\25whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A02E459A-0051-44EF-8B8F-8A13B33427BD}|25WhileLoop\\25WhileLoop.csproj|solutionrelative:25whileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02E459A-0051-44EF-8B8F-8A13B33427BD}|25WhileLoop\\25WhileLoop.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\25whileloop\\25whileloop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A02E459A-0051-44EF-8B8F-8A13B33427BD}|25WhileLoop\\25WhileLoop.csproj|solutionrelative:25whileloop\\25whileloop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A044C867-9A3A-4DCF-8252-7ACECAFA29A2}|24Switch\\24Switch.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\24switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -92,18 +104,57 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\27BreakANDContinue\\Program.cs",
+              "RelativeDocumentMoniker": "27BreakANDContinue\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\27BreakANDContinue\\Program.cs",
+              "RelativeToolTip": "27BreakANDContinue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:48:45.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\26ForLoop\\Program.cs",
+              "RelativeDocumentMoniker": "26ForLoop\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\26ForLoop\\Program.cs",
+              "RelativeToolTip": "26ForLoop\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:19:25.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "25WhileLoop",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\25WhileLoop\\25WhileLoop.csproj",
+              "RelativeDocumentMoniker": "25WhileLoop\\25WhileLoop.csproj",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\25WhileLoop\\25WhileLoop.csproj",
+              "RelativeToolTip": "25WhileLoop\\25WhileLoop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T10:18:40.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\25WhileLoop\\Program.cs",
               "RelativeDocumentMoniker": "25WhileLoop\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\25WhileLoop\\Program.cs*",
-              "RelativeToolTip": "25WhileLoop\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\25WhileLoop\\Program.cs",
+              "RelativeToolTip": "25WhileLoop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T06:09:58.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\24Switch\\Program.cs",
               "RelativeDocumentMoniker": "24Switch\\Program.cs",
@@ -111,12 +162,11 @@
               "RelativeToolTip": "24Switch\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T11:40:18.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T11:40:18.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\23IfElse\\Program.cs",
               "RelativeDocumentMoniker": "23IfElse\\Program.cs",
@@ -128,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\22Booleans\\Program.cs",
               "RelativeDocumentMoniker": "22Booleans\\Program.cs",
@@ -140,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\21SpecialCharactersString\\Program.cs",
               "RelativeDocumentMoniker": "21SpecialCharactersString\\Program.cs",
@@ -152,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\20AccessStrings\\Program.cs",
               "RelativeDocumentMoniker": "20AccessStrings\\Program.cs",
@@ -164,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\19StringInterpolation\\Program.cs",
               "RelativeDocumentMoniker": "19StringInterpolation\\Program.cs",
@@ -176,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\18StringConcatenation\\Program.cs",
               "RelativeDocumentMoniker": "18StringConcatenation\\Program.cs",
@@ -188,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\17Strings\\Program.cs",
               "RelativeDocumentMoniker": "17Strings\\Program.cs",
@@ -200,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\16Math\\Program.cs",
               "RelativeDocumentMoniker": "16Math\\Program.cs",
@@ -212,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\15LogicalOperators\\Program.cs",
               "RelativeDocumentMoniker": "15LogicalOperators\\Program.cs",
@@ -224,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\14ComparisonOperators\\Program.cs",
               "RelativeDocumentMoniker": "14ComparisonOperators\\Program.cs",
@@ -236,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\13AssignmentOperators\\Program.cs",
               "RelativeDocumentMoniker": "13AssignmentOperators\\Program.cs",
@@ -248,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\12Operators\\Program.cs",
               "RelativeDocumentMoniker": "12Operators\\Program.cs",
@@ -260,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\UserInput\\Program.cs",
               "RelativeDocumentMoniker": "UserInput\\Program.cs",
@@ -272,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\TypeCasting\\Program.cs",
               "RelativeDocumentMoniker": "TypeCasting\\Program.cs",
@@ -284,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\09DataTypes\\Program.cs",
               "RelativeDocumentMoniker": "09DataTypes\\Program.cs",
