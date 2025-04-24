@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\26ForLoop\bin\Debug\net9.0\26ForLoop.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\26ForLoop\bin\Debug\net9.0\26ForLoop.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\26ForLoop\bin\Debug\net9.0\26ForLoop.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\26ForLoop\bin\Debug\net9.0\26ForLoop.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\26ForLoop\bin\Debug\net9.0\26ForLoop.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\26ForLoop\obj\Debug\net9.0\26ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\26ForLoop\obj\Debug\net9.0\26ForLoop.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\26ForLoop\obj\Debug\net9.0\26ForLoop.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\26ForLoop\obj\Debug\net9.0\26ForLoop.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\26ForLoop\obj\Debug\net9.0\26ForLoop.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\26ForLoop\obj\Debug\net9.0\26ForLoop.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\26ForLoop\obj\Debug\net9.0\refint\26ForLoop.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\26ForLoop\obj\Debug\net9.0\26ForLoop.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\26ForLoop\obj\Debug\net9.0\26ForLoop.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\26ForLoop\obj\Debug\net9.0\ref\26ForLoop.dll

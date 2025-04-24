@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\27BreakANDContinue\bin\Debug\net9.0\27BreakANDContinue.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\27BreakANDContinue\bin\Debug\net9.0\27BreakANDContinue.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\27BreakANDContinue\bin\Debug\net9.0\27BreakANDContinue.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\27BreakANDContinue\bin\Debug\net9.0\27BreakANDContinue.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\27BreakANDContinue\bin\Debug\net9.0\27BreakANDContinue.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\27BreakANDContinue\obj\Debug\net9.0\27BreakANDContinue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\27BreakANDContinue\obj\Debug\net9.0\27BreakANDContinue.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\27BreakANDContinue\obj\Debug\net9.0\27BreakANDContinue.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\27BreakANDContinue\obj\Debug\net9.0\27BreakANDContinue.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\27BreakANDContinue\obj\Debug\net9.0\27BreakANDContinue.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\27BreakANDContinue\obj\Debug\net9.0\27BreakANDContinue.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\27BreakANDContinue\obj\Debug\net9.0\refint\27BreakANDContinue.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\27BreakANDContinue\obj\Debug\net9.0\27BreakANDContinue.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\27BreakANDContinue\obj\Debug\net9.0\27BreakANDContinue.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\27BreakANDContinue\obj\Debug\net9.0\ref\27BreakANDContinue.dll
