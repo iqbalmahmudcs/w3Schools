@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23IfElse", "23IfElse\23IfEl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24Switch", "24Switch\24Switch.csproj", "{A044C867-9A3A-4DCF-8252-7ACECAFA29A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25WhileLoop", "25WhileLoop\25WhileLoop.csproj", "{A02E459A-0051-44EF-8B8F-8A13B33427BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{A044C867-9A3A-4DCF-8252-7ACECAFA29A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A044C867-9A3A-4DCF-8252-7ACECAFA29A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A044C867-9A3A-4DCF-8252-7ACECAFA29A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02E459A-0051-44EF-8B8F-8A13B33427BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02E459A-0051-44EF-8B8F-8A13B33427BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02E459A-0051-44EF-8B8F-8A13B33427BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02E459A-0051-44EF-8B8F-8A13B33427BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

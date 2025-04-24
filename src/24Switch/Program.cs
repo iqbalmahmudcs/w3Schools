@@ -27,3 +27,6 @@ switch (day)
         Console.WriteLine("Invalid input");
         break;
 }
+
+
+
