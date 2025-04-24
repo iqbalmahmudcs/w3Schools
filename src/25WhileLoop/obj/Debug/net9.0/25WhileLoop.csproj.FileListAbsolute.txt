@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\25WhileLoop\bin\Debug\net9.0\25WhileLoop.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\25WhileLoop\bin\Debug\net9.0\25WhileLoop.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\25WhileLoop\bin\Debug\net9.0\25WhileLoop.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\25WhileLoop\bin\Debug\net9.0\25WhileLoop.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\25WhileLoop\bin\Debug\net9.0\25WhileLoop.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\25WhileLoop\obj\Debug\net9.0\25WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\25WhileLoop\obj\Debug\net9.0\25WhileLoop.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\25WhileLoop\obj\Debug\net9.0\25WhileLoop.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\25WhileLoop\obj\Debug\net9.0\25WhileLoop.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\25WhileLoop\obj\Debug\net9.0\25WhileLoop.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\25WhileLoop\obj\Debug\net9.0\25WhileLoop.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\25WhileLoop\obj\Debug\net9.0\refint\25WhileLoop.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\25WhileLoop\obj\Debug\net9.0\25WhileLoop.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\25WhileLoop\obj\Debug\net9.0\25WhileLoop.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\25WhileLoop\obj\Debug\net9.0\ref\25WhileLoop.dll
