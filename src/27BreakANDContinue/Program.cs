@@ -18,29 +18,29 @@ for(int i = 0; i < 10; i++)
 
 
 //break in while loop
-int i = 0;
-while (i < 10)
+int j = 0;
+while (j < 10)
 {
-    Console.WriteLine(i);
-    i++;
-    if (i == 4)
+    Console.WriteLine(j);
+    j++;
+    if (j == 4)
     {
         break;
     }
 }
 
 
-//continue in while loop
-i = 0;
-while (i < 10)
+//continue in while loopsss
+j = 0;
+while (j < 10)
 {
-    if (i == 4)
+    if (j == 4)
     {
-        i++;
+        j++;
         continue;
     }
-    Console.WriteLine(i);
-    i++;
+    Console.WriteLine(j);
+    j++;
 }
 
 
