@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\29LoopThroughArrays\bin\Debug\net9.0\29LoopThroughArrays.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\29LoopThroughArrays\bin\Debug\net9.0\29LoopThroughArrays.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\29LoopThroughArrays\bin\Debug\net9.0\29LoopThroughArrays.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\29LoopThroughArrays\bin\Debug\net9.0\29LoopThroughArrays.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\29LoopThroughArrays\bin\Debug\net9.0\29LoopThroughArrays.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\29LoopThroughArrays\obj\Debug\net9.0\29LoopThroughArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\29LoopThroughArrays\obj\Debug\net9.0\29LoopThroughArrays.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\29LoopThroughArrays\obj\Debug\net9.0\29LoopThroughArrays.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\29LoopThroughArrays\obj\Debug\net9.0\29LoopThroughArrays.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\29LoopThroughArrays\obj\Debug\net9.0\29LoopThroughArrays.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\29LoopThroughArrays\obj\Debug\net9.0\29LoopThroughArrays.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\29LoopThroughArrays\obj\Debug\net9.0\refint\29LoopThroughArrays.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\29LoopThroughArrays\obj\Debug\net9.0\29LoopThroughArrays.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\29LoopThroughArrays\obj\Debug\net9.0\29LoopThroughArrays.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\29LoopThroughArrays\obj\Debug\net9.0\ref\29LoopThroughArrays.dll

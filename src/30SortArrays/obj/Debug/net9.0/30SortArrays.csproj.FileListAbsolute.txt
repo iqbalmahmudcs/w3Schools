@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\30SortArrays\bin\Debug\net9.0\30SortArrays.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\30SortArrays\bin\Debug\net9.0\30SortArrays.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\30SortArrays\bin\Debug\net9.0\30SortArrays.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\30SortArrays\bin\Debug\net9.0\30SortArrays.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\30SortArrays\bin\Debug\net9.0\30SortArrays.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\30SortArrays\obj\Debug\net9.0\30SortArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\30SortArrays\obj\Debug\net9.0\30SortArrays.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\30SortArrays\obj\Debug\net9.0\30SortArrays.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\30SortArrays\obj\Debug\net9.0\30SortArrays.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\30SortArrays\obj\Debug\net9.0\30SortArrays.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\30SortArrays\obj\Debug\net9.0\30SortArrays.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\30SortArrays\obj\Debug\net9.0\refint\30SortArrays.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\30SortArrays\obj\Debug\net9.0\30SortArrays.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\30SortArrays\obj\Debug\net9.0\30SortArrays.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\30SortArrays\obj\Debug\net9.0\ref\30SortArrays.dll

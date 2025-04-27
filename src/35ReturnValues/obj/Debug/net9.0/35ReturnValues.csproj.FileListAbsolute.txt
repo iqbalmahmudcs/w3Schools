@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\35ReturnValues\bin\Debug\net9.0\35ReturnValues.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\35ReturnValues\bin\Debug\net9.0\35ReturnValues.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\35ReturnValues\bin\Debug\net9.0\35ReturnValues.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\35ReturnValues\bin\Debug\net9.0\35ReturnValues.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\35ReturnValues\bin\Debug\net9.0\35ReturnValues.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\35ReturnValues\obj\Debug\net9.0\35ReturnValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\35ReturnValues\obj\Debug\net9.0\35ReturnValues.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\35ReturnValues\obj\Debug\net9.0\35ReturnValues.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\35ReturnValues\obj\Debug\net9.0\35ReturnValues.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\35ReturnValues\obj\Debug\net9.0\35ReturnValues.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\35ReturnValues\obj\Debug\net9.0\35ReturnValues.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\35ReturnValues\obj\Debug\net9.0\refint\35ReturnValues.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\35ReturnValues\obj\Debug\net9.0\35ReturnValues.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\35ReturnValues\obj\Debug\net9.0\35ReturnValues.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\35ReturnValues\obj\Debug\net9.0\ref\35ReturnValues.dll

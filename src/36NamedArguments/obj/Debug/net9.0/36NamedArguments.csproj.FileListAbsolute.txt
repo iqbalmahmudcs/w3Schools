@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\36NamedArguments\bin\Debug\net9.0\36NamedArguments.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\36NamedArguments\bin\Debug\net9.0\36NamedArguments.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\36NamedArguments\bin\Debug\net9.0\36NamedArguments.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\36NamedArguments\bin\Debug\net9.0\36NamedArguments.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\36NamedArguments\bin\Debug\net9.0\36NamedArguments.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\36NamedArguments\obj\Debug\net9.0\36NamedArguments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\36NamedArguments\obj\Debug\net9.0\36NamedArguments.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\36NamedArguments\obj\Debug\net9.0\36NamedArguments.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\36NamedArguments\obj\Debug\net9.0\36NamedArguments.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\36NamedArguments\obj\Debug\net9.0\36NamedArguments.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\36NamedArguments\obj\Debug\net9.0\36NamedArguments.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\36NamedArguments\obj\Debug\net9.0\refint\36NamedArguments.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\36NamedArguments\obj\Debug\net9.0\36NamedArguments.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\36NamedArguments\obj\Debug\net9.0\36NamedArguments.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\36NamedArguments\obj\Debug\net9.0\ref\36NamedArguments.dll

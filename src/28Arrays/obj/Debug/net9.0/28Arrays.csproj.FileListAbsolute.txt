@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\28Arrays\bin\Debug\net9.0\28Arrays.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\28Arrays\bin\Debug\net9.0\28Arrays.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\28Arrays\bin\Debug\net9.0\28Arrays.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\28Arrays\bin\Debug\net9.0\28Arrays.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\28Arrays\bin\Debug\net9.0\28Arrays.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\28Arrays\obj\Debug\net9.0\28Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\28Arrays\obj\Debug\net9.0\28Arrays.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\28Arrays\obj\Debug\net9.0\28Arrays.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\28Arrays\obj\Debug\net9.0\28Arrays.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\28Arrays\obj\Debug\net9.0\28Arrays.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\28Arrays\obj\Debug\net9.0\28Arrays.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\28Arrays\obj\Debug\net9.0\refint\28Arrays.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\28Arrays\obj\Debug\net9.0\28Arrays.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\28Arrays\obj\Debug\net9.0\28Arrays.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\28Arrays\obj\Debug\net9.0\ref\28Arrays.dll

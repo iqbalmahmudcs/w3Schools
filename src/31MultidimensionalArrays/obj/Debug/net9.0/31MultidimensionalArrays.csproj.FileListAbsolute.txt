@@ -1,0 +1,15 @@
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\31MultidimensionalArrays\bin\Debug\net9.0\31MultidimensionalArrays.exe
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\31MultidimensionalArrays\bin\Debug\net9.0\31MultidimensionalArrays.deps.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\31MultidimensionalArrays\bin\Debug\net9.0\31MultidimensionalArrays.runtimeconfig.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\31MultidimensionalArrays\bin\Debug\net9.0\31MultidimensionalArrays.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\31MultidimensionalArrays\bin\Debug\net9.0\31MultidimensionalArrays.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\31MultidimensionalArrays\obj\Debug\net9.0\31MultidimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\31MultidimensionalArrays\obj\Debug\net9.0\31MultidimensionalArrays.AssemblyInfoInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\31MultidimensionalArrays\obj\Debug\net9.0\31MultidimensionalArrays.AssemblyInfo.cs
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\31MultidimensionalArrays\obj\Debug\net9.0\31MultidimensionalArrays.csproj.CoreCompileInputs.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\31MultidimensionalArrays\obj\Debug\net9.0\31MultidimensionalArrays.sourcelink.json
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\31MultidimensionalArrays\obj\Debug\net9.0\31MultidimensionalArrays.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\31MultidimensionalArrays\obj\Debug\net9.0\refint\31MultidimensionalArrays.dll
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\31MultidimensionalArrays\obj\Debug\net9.0\31MultidimensionalArrays.pdb
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\31MultidimensionalArrays\obj\Debug\net9.0\31MultidimensionalArrays.genruntimeconfig.cache
+D:\Devskill\C# Professional Programming\Coding\W3Schools\src\31MultidimensionalArrays\obj\Debug\net9.0\ref\31MultidimensionalArrays.dll
