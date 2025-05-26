@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2844448-DD35-4C12-88F3-DC27388AF763}|36NamedArguments\\36NamedArguments.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\36namedarguments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2844448-DD35-4C12-88F3-DC27388AF763}|36NamedArguments\\36NamedArguments.csproj|solutionrelative:36namedarguments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{257B28DE-57D9-45E5-A062-35C110EF0F74}|37OOP\\37OOP.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\37oop\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257B28DE-57D9-45E5-A062-35C110EF0F74}|37OOP\\37OOP.csproj|solutionrelative:37oop\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A327D63-478E-4DF2-A815-384D05D9A5FA}|35ReturnValues\\35ReturnValues.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\35returnvalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A327D63-478E-4DF2-A815-384D05D9A5FA}|35ReturnValues\\35ReturnValues.csproj|solutionrelative:35returnvalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7D22EFE-829D-4FE5-9D39-E9E4BADEB02C}|34DefaultParameterValue\\34DefaultParameterValue.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\34defaultparametervalue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7D22EFE-829D-4FE5-9D39-E9E4BADEB02C}|34DefaultParameterValue\\34DefaultParameterValue.csproj|solutionrelative:34defaultparametervalue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D7DA2D0-902D-4D06-AF20-137F1744D430}|33MethodParameters\\33MethodParameters.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\33methodparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D7DA2D0-902D-4D06-AF20-137F1744D430}|33MethodParameters\\33MethodParameters.csproj|solutionrelative:33methodparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3FFC8FA-B0C8-4649-B521-4139A64D8AA0}|32Methods\\32Methods.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\32methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3FFC8FA-B0C8-4649-B521-4139A64D8AA0}|32Methods\\32Methods.csproj|solutionrelative:32methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3FFC8FA-B0C8-4649-B521-4139A64D8AA0}|32Methods\\32Methods.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\32methods\\32methods.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F3FFC8FA-B0C8-4649-B521-4139A64D8AA0}|32Methods\\32Methods.csproj|solutionrelative:32methods\\32methods.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{257B28DE-57D9-45E5-A062-35C110EF0F74}|37OOP\\37OOP.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\37oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257B28DE-57D9-45E5-A062-35C110EF0F74}|37OOP\\37OOP.csproj|solutionrelative:37oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +18,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\37OOP\\Program.cs",
+              "RelativeDocumentMoniker": "37OOP\\Program.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\37OOP\\Program.cs",
+              "RelativeToolTip": "37OOP\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:01:16.986Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -47,79 +45,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\36NamedArguments\\Program.cs",
-              "RelativeDocumentMoniker": "36NamedArguments\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\36NamedArguments\\Program.cs",
-              "RelativeToolTip": "36NamedArguments\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\37OOP\\Car.cs",
+              "RelativeDocumentMoniker": "37OOP\\Car.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\37OOP\\Car.cs",
+              "RelativeToolTip": "37OOP\\Car.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T14:04:37.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\35ReturnValues\\Program.cs",
-              "RelativeDocumentMoniker": "35ReturnValues\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\35ReturnValues\\Program.cs",
-              "RelativeToolTip": "35ReturnValues\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T13:39:49.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\34DefaultParameterValue\\Program.cs",
-              "RelativeDocumentMoniker": "34DefaultParameterValue\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\34DefaultParameterValue\\Program.cs",
-              "RelativeToolTip": "34DefaultParameterValue\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T13:23:59.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\32Methods\\Program.cs",
-              "RelativeDocumentMoniker": "32Methods\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\32Methods\\Program.cs",
-              "RelativeToolTip": "32Methods\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T13:23:01.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "32Methods",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\32Methods\\32Methods.csproj",
-              "RelativeDocumentMoniker": "32Methods\\32Methods.csproj",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\32Methods\\32Methods.csproj",
-              "RelativeToolTip": "32Methods\\32Methods.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-27T13:22:58.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\33MethodParameters\\Program.cs",
-              "RelativeDocumentMoniker": "33MethodParameters\\Program.cs",
-              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\33MethodParameters\\Program.cs",
-              "RelativeToolTip": "33MethodParameters\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T11:58:39.86Z",
+              "WhenOpened": "2025-05-26T11:05:46.997Z",
               "EditorCaption": ""
             }
           ]
