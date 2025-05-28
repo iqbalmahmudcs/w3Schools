@@ -10,18 +10,31 @@ namespace _37OOP
     public class Car
     {
         //Fields
-        public string model;
-        public string color;
-        public int year;
+        private string _model;
+        private string _color;
+        private int _year;
 
+
+        //Default Constructor
+        public Car() { }
+
+        //Constructor
+        public Car(string model, string color, int year)
+        {
+            _model = model;
+            _color = color;
+            _year = year;
+
+        }
 
 
         //Methods
         public void Display()
         {
-            Console.WriteLine($"Model: {model}");
-            Console.WriteLine($"Color: {color}");
-            Console.WriteLine($"Year: {year}");
+            Console.WriteLine($"Model: {_model}");
+            Console.WriteLine($"Color: {_color}");
+            Console.WriteLine($"Year: {_year}");
+            Console.WriteLine();
         }
 
     }

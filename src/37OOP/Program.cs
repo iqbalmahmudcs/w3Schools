@@ -7,20 +7,26 @@
  */
 
 
-Car ford = new Car();
-ford.model = "Mustang";
-ford.color = "red";
-ford.year = 1969;
+Car ford = new Car("Mustang", "red", 1969);
+//ford._model = "Mustang";
+//ford._color = "red";
+//ford._year = 1969;
 
-Car opel = new Car();
-opel.model = "Astra";
-opel.color = "white";
-opel.year = 2005;
+Car opel = new Car("Astra", "white", 2005);
+//opel._model = "Astra";
+//opel._color = "white";
+//opel._year = 2005;
+
+Car honda = new Car();
 
 ford.Display();
 opel.Display();
+honda.Display();
 
 
+Person person = new Person();
+person.Name = "Iqbal";
+Console.WriteLine(person.Name);
 
 
 

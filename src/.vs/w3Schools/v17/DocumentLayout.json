@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{257B28DE-57D9-45E5-A062-35C110EF0F74}|37OOP\\37OOP.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\37oop\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{257B28DE-57D9-45E5-A062-35C110EF0F74}|37OOP\\37OOP.csproj|solutionrelative:37oop\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{257B28DE-57D9-45E5-A062-35C110EF0F74}|37OOP\\37OOP.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\37oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{257B28DE-57D9-45E5-A062-35C110EF0F74}|37OOP\\37OOP.csproj|solutionrelative:37oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257B28DE-57D9-45E5-A062-35C110EF0F74}|37OOP\\37OOP.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\37oop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257B28DE-57D9-45E5-A062-35C110EF0F74}|37OOP\\37OOP.csproj|solutionrelative:37oop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257B28DE-57D9-45E5-A062-35C110EF0F74}|37OOP\\37OOP.csproj|d:\\devskill\\c# professional programming\\coding\\w3schools\\src\\37oop\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257B28DE-57D9-45E5-A062-35C110EF0F74}|37OOP\\37OOP.csproj|solutionrelative:37oop\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\37OOP\\Program.cs",
               "RelativeDocumentMoniker": "37OOP\\Program.cs",
               "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\37OOP\\Program.cs",
               "RelativeToolTip": "37OOP\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T11:01:16.986Z",
               "IsPinned": true,
@@ -44,13 +48,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\37OOP\\Person.cs",
+              "RelativeDocumentMoniker": "37OOP\\Person.cs",
+              "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\37OOP\\Person.cs",
+              "RelativeToolTip": "37OOP\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:06:47.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Car.cs",
               "DocumentMoniker": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\37OOP\\Car.cs",
               "RelativeDocumentMoniker": "37OOP\\Car.cs",
               "ToolTip": "D:\\Devskill\\C# Professional Programming\\Coding\\W3Schools\\src\\37OOP\\Car.cs",
               "RelativeToolTip": "37OOP\\Car.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T11:05:46.997Z",
               "EditorCaption": ""
